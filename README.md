@@ -37,3 +37,6 @@ Chart 1:
 % Of Highschool dropouts 
 This Chart is depicting the % of Highschool dropouts for every 1000 young males in Highschool.
 Chart 2:
+% Of Young in Poverty
+This chart is depicting the % of Highschool dropouts for every 1000 young males
+Chart 3:
