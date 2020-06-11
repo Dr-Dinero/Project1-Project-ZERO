@@ -21,3 +21,12 @@ https://drive.google.com/open?id=1xTuHbsgXyi0rfDhFIJG0_C-Zz3kJxNtO
 https://drive.google.com/open?id=1BLOqdp4qcvx2rzH-Z50UF3oDNOdfaLiZ
 
 #Not Enrolled norworking Clean Data#
+https://drive.google.com/open?id=1xTuHbsgXyi0rfDhFIJG0_C-Zz3kJxNtO
+
+#HouseHolds with Violent Crimes Unclean Data#
+https://drive.google.com/open?id=1BKzWYg0k675Eud2rOpQo-yXhYFouGLdw
+
+HYPOTHESIS: Measuring these three forms of living conditions can point us into a direction of why certain demographic populations follow a specific trend in society                                                                                                                            
+Our project was done on the effects that enviroment, education, and life circumstances have on people of color
+
+
