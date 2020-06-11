@@ -43,3 +43,4 @@ Chart 3:
 % of young males Not Enrolled in school or working
 This chart depicts the % of Young males Not Enrolled in school or working for every 1000 young males 
 Chart 4:
+This chart is just a replica of the Chart 3 but is a pie chart
