@@ -40,3 +40,6 @@ Chart 2:
 % Of Young in Poverty
 This chart is depicting the % of Highschool dropouts for every 1000 young males
 Chart 3:
+% of young males Not Enrolled in school or working
+This chart depicts the % of Young males Not Enrolled in school or working for every 1000 young males 
+Chart 4:
