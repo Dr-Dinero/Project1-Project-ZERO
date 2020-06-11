@@ -45,3 +45,8 @@ This chart depicts the % of Young males Not Enrolled in school or working for ev
 Chart 4:
 This chart is just a replica of the Chart 3 but is a pie chart
 Chart 5:
+% of Regular smoking Alcohol Illicit drug use in young males of color
+This chart is depicting the % of young males that use illicit drugs and alcahol on a daily basis for every 1000 young males 
+Chart 6:
+The relation of Chart 2 and Chart 5
+This chart depictions the correlation between drug use of young males and there elevetated poverty level
