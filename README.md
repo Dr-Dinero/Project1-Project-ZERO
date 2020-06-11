@@ -33,3 +33,5 @@ Our project was done on the effects that enviroment, education, and life circums
 Findings:
 Due to lack of data accuracy and time window the findings only slightly supported the hypothesis. More research would have to be done to make any more solid conclusions
 
+Chart 1: 
+% Of Highschool dropouts 
