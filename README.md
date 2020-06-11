@@ -35,3 +35,5 @@ Due to lack of data accuracy and time window the findings only slightly supporte
 
 Chart 1: 
 % Of Highschool dropouts 
+This Chart is depicting the % of Highschool dropouts for every 1000 young males in Highschool.
+Chart 2:
